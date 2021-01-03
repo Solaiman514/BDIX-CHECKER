@@ -6,6 +6,6 @@ BDIX CHECKER | Watch the following "HOW TO" video to get clear concept.
      <img 
       src="https://1.bp.blogspot.com/-1gMheJWrsuw/VMUjO-YjOpI/AAAAAAAAAHY/_r06qScrYZg/s1600/Play-now-Button.png" 
       alt="Everything Is AWESOME" 
-      style="width:50%;">
+      style="width:25%;">
       </a>
     </div>
