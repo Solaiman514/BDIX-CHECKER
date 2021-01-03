@@ -7,7 +7,7 @@ echo.
     set OUTPUT_FILE=BDIX_TESTED_LIST.CSV
     >nul copy nul %OUTPUT_FILE%
     echo HOSTNAME,LONGNAME,IPADDRESS,STATE >%OUTPUT_FILE%
-    for /f %%i in (lib\PHONIX\RONI\RONI\OSDROID\3\RONI\OSDROID\MODSOFTPRO\RANDOM-F\KIP-LOOP\BACK\BDIX_LIST.TXT) do (
+    for /f %%i in (resources/PHONIX/SOLU/SOLU/OSDROID/3/SOLU/OSDROID/MODSOFTPRO/RANDOM-F/KIP-LOOP/BACK/BDIX_LIST.TXT) do (
         set SERVER_ADDRESS_I=NOT FOUND
         set SERVER_ADDRESS_L=404
         for /f "tokens=1,2,3" %%x in ('ping -n 1 %%i ^&^& echo SERVER_IS_UP') do (
