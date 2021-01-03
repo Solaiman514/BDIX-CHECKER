@@ -1,7 +1,7 @@
 @echo off
-echo    * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-echo    * * *  "BDIX  CHECKER" ________Created by Rokibul Roni  * * * 
-echo    * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+echo      * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+echo    * * *  "BDIX  CHECKER" ________Created by SI Technology Ltd.  * * * 
+echo      * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 echo.
     setlocal enabledelayedexpansion
     set OUTPUT_FILE=BDIX_TESTED_LIST.CSV
