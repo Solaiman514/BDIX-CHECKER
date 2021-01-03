@@ -19,6 +19,6 @@ echo.
 echo.
 echo    * * * All Results are exported on "BDIX_TESTED_LIST.CSV" File * * * 
 echo.
-echo ___ Download the Latest Version of "B D I X  C H E C K E R" :: https://bit.ly/bdixchecker
+echo ___ Download the Latest Version of "B D I X  C H E C K E R" :: 
 
 set /p input=
